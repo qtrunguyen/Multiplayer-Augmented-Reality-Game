@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Spinner Top Game, using Unity and Photon (a mulitplayer engine), implementing with AR(Augmented Reality
+This is a Spinner Top Game, using Unity and Photon (a mulitplayer engine), implementing with AR(Augmented Reality).
 
 Note: This game was optimized for Android users. A version compatible with iOS will be made in the future.
 
